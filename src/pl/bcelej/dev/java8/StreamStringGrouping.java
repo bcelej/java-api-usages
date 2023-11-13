@@ -1,4 +1,4 @@
-package pl.bcelej.dev;
+package pl.bcelej.dev.java8;
 
 import java.util.ArrayList;
 import java.util.HashMap;
