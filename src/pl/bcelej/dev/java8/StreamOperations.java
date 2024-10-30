@@ -1,6 +1,5 @@
-package pl.bcelej.dev;
+package pl.bcelej.dev.java8;
 
-import java.io.File;
 import java.util.Arrays;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
